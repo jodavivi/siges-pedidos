@@ -1,0 +1,4 @@
+{
+    "seqPedido": "ventas.\"pedido_Id_seq\"",
+    "seqPedidoDetalle": "ventas.\"pedido_detalle_Id_seq\"" 
+}
