@@ -1,4 +1,5 @@
 {
     "seqPedido": "venta.\"pedido_Id_seq\"",
-    "seqPedidoDetalle": "venta.\"pedido_detalle_Id_seq\"" 
+    "seqPedidoDetalle": "venta.\"pedido_detalle_Id_seq\"" ,
+    "seqPedidoEstado": "venta.\"pedido_estado_Id_seq\"" 
 }
